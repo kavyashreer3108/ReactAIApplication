@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactAIApplication/static/css/main.3c2fef4c.chunk.css",
+    "main.js": "/ReactAIApplication/static/js/main.5da126ad.chunk.js",
+    "main.js.map": "/ReactAIApplication/static/js/main.5da126ad.chunk.js.map",
+    "runtime-main.js": "/ReactAIApplication/static/js/runtime-main.bf0ddb2d.js",
+    "runtime-main.js.map": "/ReactAIApplication/static/js/runtime-main.bf0ddb2d.js.map",
+    "static/js/2.284d16bf.chunk.js": "/ReactAIApplication/static/js/2.284d16bf.chunk.js",
+    "static/js/2.284d16bf.chunk.js.map": "/ReactAIApplication/static/js/2.284d16bf.chunk.js.map",
+    "index.html": "/ReactAIApplication/index.html",
+    "precache-manifest.67e77b077e4354c773aaaa930023790c.js": "/ReactAIApplication/precache-manifest.67e77b077e4354c773aaaa930023790c.js",
+    "service-worker.js": "/ReactAIApplication/service-worker.js",
+    "static/css/main.3c2fef4c.chunk.css.map": "/ReactAIApplication/static/css/main.3c2fef4c.chunk.css.map",
+    "static/js/2.284d16bf.chunk.js.LICENSE.txt": "/ReactAIApplication/static/js/2.284d16bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0ddb2d.js",
+    "static/js/2.284d16bf.chunk.js",
+    "static/css/main.3c2fef4c.chunk.css",
+    "static/js/main.5da126ad.chunk.js"
+  ]
+}
